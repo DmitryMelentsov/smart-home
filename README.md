@@ -10,7 +10,6 @@
 - Go
 - PostgreSQL
 - Docker
-- testify
 
 ## Подготовка окружения
 
